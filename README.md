@@ -1,4 +1,4 @@
-# Teste Simbiox: Front-End Developer
+# Teste SimbioX: Front-End Developer
 Desenvolver uma aplicação HTML5
 
 ## Instruções
@@ -9,8 +9,7 @@ Desenvolver uma aplicação HTML5
 douglas.riu@simbiox.com.br com o título **Teste FrontEnd Developer**
 
 ## Especificações tecnicas
-- Utilizar diretrizes do
-[Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+- Utilizar alguma lib como Bootstrap, Materialize ou alguma outra de sua escolha
 - Utilizar a [OMDb API](http://www.omdbapi.com)
 - Mobile first e responsivo
 - Usar framework JS [Vue.JS](https://vuejs.org/) ou
