@@ -1,58 +1,69 @@
 # Teste SimbioX: Front-End Developer
-Desenvolver uma aplicação HTML5
+Desenvolver uma aplicação para testar os conhecimentos Front-End com HTML, CSS e JavaScript, além de lógica de programação, organização e semântica.
+
+## Sobre a Vaga
+Será responsável por construir estruturas front-end (HTML, CSS e principalmente JavaScript) com códigos eficientes e reutilizáveis que se integram com outros sistemas e tecnologias. Participará de diferentes projetos (Portais Corporativos, Intranets e Sistemas on-line diversos para grandes empresas) desenvolvidos sob a Plataforma Microsoft SharePoint, onde é realizado um treinamento inicial na primeira semana para introdução e ambientação à plataforma.
+
+Remuneração à negociar de acordo com resultado de teste prático;
+
+## Sobre a SimbioX
+A SimbioX (http://www.simbiox.com.br) é uma consultoria em TI, que trabalha com a plataforma Microsoft SharePoint (sugiro dar uma pesquisada nisso). Procuramos alguém que tenha muita disposição para aprender, pois a plataforma (que é um tipo de CMS avançado e muito robusto para criação de Portais Web, Intranets, Extranets e etc) é exclusiva e usada por grandes empresas no mercado corporativo. Além disso, ao iniciar, fazemos um treinamento de 1 semana para ambientar o colaborador e ficar familiarizado com o SharePoint. Estamos localizados na Rua Cláudio Soares, 72 – muito perto do metro Faria Lima.
 
 ## Instruções
 - Faça um fork desse projeto para a sua conta pessoal do GitHub.
-- Siga as especificações abaixo.
 - Crie um README com as instruções para compilar, testar e rodar o projeto.
 - O link do repositório deverá ser enviado para o e-mail
-jonas.buriti@simbiox.com.br com o título **Teste FrontEnd Developer**
+jonas.buriti@simbiox.com.br com o título **[SX] Teste Front-End Developer**
 
 ## Especificações tecnicas
-- Utilizar alguma lib como Bootstrap, Materialize ou alguma outra de sua escolha
-- Utilizar a [OMDb API](http://www.omdbapi.com)
-- Mobile first e responsivo
+- Utilizar uma lib como Bootstrap, Materialize ou alguma outra de sua preferência
+- Utilizar a API [CartolaFC API] (https://api.cartolafc.globo.com/)
 - Usar framework JS [Vue.JS](https://vuejs.org/) ou
 [SharePoint framework](https://github.com/SharePoint/sp-dev-docs)
-- Cores livres, layout livre, imagens livres
 
 ## Especificações funcionais
+
 ### Tela Inicial
-Essa tela terá um formulário de busca posicionado no meio da tela com
-campo de texto com placeholder "Procure seu filme" e um botão "Buscar".
-Essa busca deverá chamar a url http://www.omdbapi.com/?s={nome_do_filme}.
 
-Ao fazer a busca, o formulário deve ser movido para o topo da tela usando
-css animate e mostrar a lista de filmes com os campos do retorno da chamada
-(Título, Ano, Tipo, imdbID, Poster). O campo de busca deverá ter validação.
+#### Template
 
-A lista de filmes deve mostrar apenas o poster do filme e um botão para ver
-o detalhe do filme. Deve mostrar apenas os 6 primeiros resultados e deve
-possuir paginação infinita mostrando de 6 em 6 resultados.
+Desenvolver o HTML responsivo utilizando a estrutura do Bootstrap com base no Wireframe;
 
-### Tela de detalhes
-A partir do imdbID retornado na outra chamada, deve ser feito uma chamada
-para http://www.omdbapi.com/?i={imbd_id}.
+#### Ranking
 
-A partir desse retorno, deve-se montar uma tela onde apareçam as informações
-Title, Year, Rated, Genre, Director, Writer, Actors, Plot, Language, Country, Awards, Poster, Type.
-Essa tela deve ter um botão para voltar para resultados da busca.
+Criar uma página para montar uma tabela de classificação de times de https://api.cartolafc.globo.com/clubes exibindo:
+posicao | Escudo (45x45) | abreviacao (e um tooltip com o "nome")
+
+* Ordenado por posição.
+
+#### Busca de times
+
+A tela deverá ter um input de busca para pesquisar os times em: https://api.cartolafc.globo.com/times?q=
+
+O resultado deverá ser exibido:
+
+nome
+nome_cartola
+
+* deverá conter paginação de 5 em 5;
 
 ## Plus
 
 - Utilizar o proprio ambiente do SharePoint
 [Dev Program](https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=14b845d0-938c-45af-b061-f798fbb4d170&lcid=1033)
 
-    *O dev program é um meio de utilizar o sharepoint de graça*
+    *O dev program é um meio de utilizar o SharePoint gratuitamente *
 
     *Caso utilize o ambiente sharepoint crie um estrutura de
-    lista com as mesmas propriedades do [OMDb API](http://www.omdbapi.com)*
+    lista personalizada com o nome "Filmes" com as mesmas propriedades da API
 
 - Utilizar o
 [PnP-JS-Core](https://github.com/SharePoint/PnP-JS-Core) para comunicação com as apis
 do sharepoint caso queira utilizar o ambiente SharePoint
 
 - Testes automatizados
+
+- Utilizar algum pré-processador CSS.
 
 ## O que será avaliado?
 - Organização do projeto
