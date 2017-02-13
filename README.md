@@ -6,7 +6,7 @@ Desenvolver uma aplicação HTML5
 - Siga as especificações abaixo.
 - Crie um README com as instruções para compilar, testar e rodar o projeto.
 - O link do repositório deverá ser enviado para o e-mail
-douglas.riu@simbiox.com.br com o título **Teste FrontEnd Developer**
+jonas.buriti@simbiox.com.br com o título **Teste FrontEnd Developer**
 
 ## Especificações tecnicas
 - Utilizar alguma lib como Bootstrap, Materialize ou alguma outra de sua escolha
