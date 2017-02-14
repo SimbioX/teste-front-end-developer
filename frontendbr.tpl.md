@@ -42,12 +42,14 @@ CLT ou PJ a combinar
 
 ## Nossa empresa
 
-A SimbioX (http://www.simbiox.com.br) é uma consultoria em TI, 
-que trabalha com a plataforma Microsoft SharePoint (sugiro dar uma pesquisada nisso). 
+A [SimbioX](http://www.simbiox.com.br) é uma consultoria em TI, 
+que trabalha com a plataforma Microsoft [SharePoint](http://dev.office.com/sharepoint). 
 Procuramos alguém que tenha muita disposição para aprender, pois a plataforma 
 (que é um tipo de CMS avançado e muito robusto para criação de Portais Web, 
 Intranets, Extranets e etc) é exclusiva e usada por grandes empresas no mercado corporativo. 
 Estamos localizados na Rua Cláudio Soares, 72 – muito perto do metro Faria Lima.
+
+
 
 ## Como se candidatar
 
