@@ -6,7 +6,7 @@ além de lógica de programação, organização e semântica.
 ## Especificações tecnicas
 - Utilizar uma lib como Bootstrap, Materialize ou alguma outra de sua preferência
 - Utilizar a API [CartolaFC API](https://api.cartolafc.globo.com/)
-    - [Alerações de 2016 na API](https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md)
+    - [Alterações de 2016 na API](https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md)
 - Usar framework JS [Vue.JS](https://vuejs.org/) ou
 [SharePoint framework](https://github.com/SharePoint/sp-dev-docs)
 
