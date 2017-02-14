@@ -49,7 +49,7 @@ Procuramos alguém que tenha muita disposição para aprender, pois a plataforma
 Intranets, Extranets e etc) é exclusiva e usada por grandes empresas no mercado corporativo. 
 Estamos localizados na Rua Cláudio Soares, 72 – muito perto do metro Faria Lima.
 
-
+[![SimbioX](https://i.ytimg.com/vi/Ey9UhvcCE0I/hqdefault.jpg)](https://www.youtube.com/watch?v=Ey9UhvcCE0I "SimbioX")
 
 ## Como se candidatar
 
