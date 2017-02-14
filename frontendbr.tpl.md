@@ -15,8 +15,9 @@ Rua Claudio Soares, 72, São Paulo - Faria Lima(ao lado do metro)
 
 ## Benefícios
 
-- 1 horas de almoço
-- academia
+- 1 hora de almoço
+- Frutas
+- Academia
 - Breja liberada depois das 17:00
 - Possibilidade de alguns dias home office
 
