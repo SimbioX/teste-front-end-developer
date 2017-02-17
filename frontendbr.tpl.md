@@ -11,15 +11,15 @@ diáriamente irá aprender mais sobre a ferramenta.
 
 ## Local
 
-Rua Claudio Soares, 72, São Paulo - Faria Lima(ao lado do metro)
+Rua Claudio Soares, 72, São Paulo - Faria Lima (ao lado da estação Faria Lima do metro, e tambem proximo às estações Pinheiros e Hebraica do trem)
 
 ## Benefícios
 
-- 1 hora de almoço
-- Frutas
-- Academia
-- Breja liberada depois das 17:00
-- Possibilidade de alguns dias home office
+- 1 hora de almoço;
+- Frutas a vontade;
+- Academia;
+- Breja liberada depois das 17:00 todos os dias!;
+- Possibilidade de alguns dias home office sempre dentro do combinado.
 
 ## Requisitos
 
@@ -27,14 +27,15 @@ Rua Claudio Soares, 72, São Paulo - Faria Lima(ao lado do metro)
 - 1 ano de experiência com JavaScript/HTML/CSS
 
 **Desejáveis:**
-- conhecimentos em nodejs
-- conhecimentos em SASS/LESS
+- Conhecimentos em Node.js;
+- Conhecimentos em SASS/LESS;
 - Yeoman
 
 **Diferenciais:**
-- projetos opensource
-- vontade de aprender
-- ser curioso
+- Projetos opensource;
+- Vontade de aprender;
+- Ser curioso.
+- Conhecimentos sobre a plataforma SharePoint.
 
 ## Contratação
 
@@ -56,7 +57,7 @@ gestão de ativos, abertura de chamados, gestão departamental, entre outras.
 
 Localizada Rua Claudio Soares, esquina com a Avenida Brigadeiro Faria Lima, 
 um dos maiores centros empresariais da cidade de São Paulo. 
-A empresa possui em seu quadro de colaboradores mais de 30 Simbioxianos 
+A empresa possui em seu quadro de colaboradores mais de 15 colaboradores 
 que trabalham em constante simbiose para que todos os projetos atendam a 
 expectativa dos clientes. Suas unidades de negócio oferecem ao mercado 
 brasileiro soluções para todos os perfis de empresas: Serviços, Produtos.
